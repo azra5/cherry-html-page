@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+	margin: 0px;
+	background-color: #EEEEEE;
+	position: relative;
+	min-height: 100%;
+}
+
+.container {
+	padding: 20px;
+}
+
+.title {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #1F4788;
+	font-weight: 600;
+}
+
+.icon {
+	margin-left: 15px;
+}
+
+.content {
+	text-align: justify;
+	color: #303030;
+}
+
+.view-more {
+	background-image: url('../images/red_button2.png');
+	background-repeat: no-repeat;
+	height: 55px;
+	width: 178px;
+	float: right;
+	margin: 30px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	font-weight: 600;
+	border-radius: 25px;
+}
+
+.view-more-text {
+	margin-top: 15px;
+}
+
+.view-more:hover {
+	cursor: pointer;
+}

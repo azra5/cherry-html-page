@@ -1,0 +1,42 @@
+.menu {
+	background-color: #BFBFBF;
+	padding: 20px 0 0 20px;
+	margin: 0 auto;
+}
+
+.menu ul {
+	margin: 0px;
+	margin-top: 15px;
+	padding: 0px;
+	vertical-align:top;
+	display: inline-block;
+
+}
+
+.menu ul li {
+	list-style-type: none;
+	display: inline;
+	font-size: 1.5em;
+	padding:20px 10px 10px 0;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.menu ul li a {
+	color: #264348;
+	text-decoration: none;
+}
+
+.login-form {
+	padding: 20px;
+	display: inline;
+	float: right;
+}
+
+.login-button {
+	margin-left: 5px;
+	list-style-type: none;
+	display: inline;
+	color: #264348;
+	text-decoration: none;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
